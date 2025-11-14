@@ -3,7 +3,7 @@ I work with data and enjoy turning raw information into clear, meaningful insigh
 My interests lie in data analysis, querying, building dashboards, and creating simple, structured solutions.
 
 - Querying and exploring data using SQL  
-- Building dashboards using Power BI and Looker Studio  
+- Building dashboards using Power BI and Tableau  
 - Performing data cleaning, reporting, and basic analysis using Excel  
 - Learning machine learning fundamentals and improving problem-solving skills  
 
