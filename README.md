@@ -17,6 +17,5 @@ You can explore them in my **repositories**.
 - **Visualization:** Power BI, Tableau
 - **Other:** Excel, basic web tools (HTML, CSS, JS)
 
-**thanks for visiting 🤍**
 
 
