@@ -1,24 +1,31 @@
-### Hi, I'm Vedanta 🤍
+<div align="center">
 
-I’m a curious and dedicated learner who loves exploring data, analytics, and technology. My work reflects calm thinking, clarity, and a genuine desire to understand how things function beneath the surface. I enjoy breaking complex ideas into simple parts and building projects that feel intentional and meaningful.
+# 🤍 Vedanta  
+*Learning • Building • Becoming better*
 
-### What I Do
-- Work with SQL, Power BI, Excel, Python, HTML, CSS, and basic JavaScript  
-- Build data analytics projects that turn raw information into insights  
-- Explore AI, machine learning fundamentals, and logical reasoning  
-- Create clean, structured solutions through steady and consistent learning  
+</div>
 
-### What I’m Exploring Right Now
-- Strengthening my data analytics and ML foundations  
-- Expanding my portfolio with thoughtful, real-world projects  
-- Improving problem-solving, reasoning, and clarity in my technical work  
-- Learning new ways to visualize and communicate data effectively  
+---
 
-### My Beliefs
-I value quiet progress, honest work, and the patience it takes to grow.  
-Every project I create is a step toward becoming more skilled, confident,  
-and thoughtful in the way I solve problems.
+### 🌿 About Me  
+I’m a calm, curious learner who enjoys exploring data, analytics, and technology.  
+I love turning messy information into clear insights and building things that feel simple and thoughtful.
 
-### Let’s Connect
-I’m always open to learning, collaborating, and sharing ideas.  
-Feel free to explore my repositories or reach out anytime. 🤍
+### 🛠️ Skills  
+SQL • Power BI • Excel  
+HTML • CSS • JavaScript (basic)
+
+### 🌱 Currently Learning  
+Data analytics, ML fundamentals, and better ways to visualize and explain ideas.
+
+### 📁 What You’ll Find Here  
+Clean projects, structured thinking, and small steps of quiet progress.
+
+---
+
+<div align="center">
+
+**thanks for visiting 🤍**
+
+</div>
+
